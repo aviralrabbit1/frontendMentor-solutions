@@ -5,6 +5,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Frontend Mentor - Social links profile solution](#frontend-mentor---social-links-profile-solution)
+  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
     - [Links](#links)
@@ -22,8 +23,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Social Links](https://github.com/aviralrabbit1/frontendMentor-solutions/tree/main/social-links-profile-main)
+- Live Site URL: [Social Links website](https://aviralrabbit1.github.io/frontendMentor-solutions/social-links-profile-main/)
 
 ## My process
 
